@@ -1,0 +1,5 @@
+package com.capgemini.cityservice.entity;
+
+public class City {
+
+}

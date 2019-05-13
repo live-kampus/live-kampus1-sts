@@ -1,0 +1,5 @@
+package com.capgemini.cityservice.dao;
+
+public interface CityDao {
+
+}

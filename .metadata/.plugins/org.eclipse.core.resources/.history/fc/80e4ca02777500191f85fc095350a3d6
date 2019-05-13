@@ -1,0 +1,5 @@
+package com.capgemini.cityservice.controller;
+
+public class CityController {
+
+}

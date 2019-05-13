@@ -1,0 +1,7 @@
+package com.capgemini.cityservice.dao;
+
+import org.springframework.data.mongodb.repository.MongoRepository;
+
+public interface CityDao extends MongoRepository<City, Ineteger> {
+
+}
